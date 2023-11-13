@@ -1,17 +1,17 @@
 # Meta Front-End Developer Professional Certificate
 ---
 
-Meta-frontEnd professional certification course
+Meta-front-End professional certification course
 
 # Courses in this Specialization
 - [Introduction to Front-End Development](./#)
 - [Programming with JavaScript](./#)
-- [version control](./#)
+- [Version Control](./#)
 - [HTML and CSS in Depth](./htmlAndCssIndepth/)
 - [React Basics](./React_Basics)
 - [Advanced React](./advanced_react)
-- [principles of ux/ui Design](./#)
-- [front-End developer capstone](./#)
+- [Principles of UX/UI Design](./#)
+- [Front-End developer Capstone](./#)
 - [Coding Interview Preparation](./#)
 
 # Projects in this Specialization
