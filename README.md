@@ -15,5 +15,5 @@ Meta-front-End professional certification course
 - [Coding Interview Preparation](./#)
 
 # Projects in this Specialization
-Course 5 (React Basics): [Simple Calculator App](./#)
-Course 6 (React Advanced): [React Portfolio](./#)
+- Course 5 (React Basics): [Simple Calculator App](./#)
+- Course 6 (React Advanced): [React Portfolio](./#)
