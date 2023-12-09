@@ -16,3 +16,4 @@ Meta-front-End professional certification course
 
 # Projects in this Specialization
 Course 5 (React Basics): [Simple Calculator App](./#)
+Course 6 (React Advanced): [React Portfolio](./#)
